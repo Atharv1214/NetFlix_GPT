@@ -15,7 +15,15 @@
 </div>
 
 
+### Login Page
+![Sign-in Page](./src/assets/screenshots/sign-in.png)
+![Sign-up Page](./src/assets/screenshots/sign-up.png)
 
+### Browse Page
+![Browse Page](./src/assets/screenshots/browse.png)
+
+### GPT Search Page
+![GPT Search Page](./src/assets/screenshots/gptSearch.png)
 # Features
 - Login/Sign Up
     - Sign In /Sign up Form
